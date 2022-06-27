@@ -6,7 +6,6 @@ C:\Users\Unknown\Desktop\Practice Check\MenuItemApi\MenuItemApi\bin\Debug\netcor
 C:\Users\Unknown\Desktop\Practice Check\MenuItemApi\MenuItemApi\bin\Debug\netcoreapp3.1\MenuItemApi.runtimeconfig.dev.json
 C:\Users\Unknown\Desktop\Practice Check\MenuItemApi\MenuItemApi\bin\Debug\netcoreapp3.1\MenuItemApi.dll
 C:\Users\Unknown\Desktop\Practice Check\MenuItemApi\MenuItemApi\bin\Debug\netcoreapp3.1\MenuItemApi.pdb
-C:\Users\Unknown\Desktop\Practice Check\MenuItemApi\MenuItemApi\obj\Debug\netcoreapp3.1\MenuItemApi.csproj.AssemblyReference.cache
 C:\Users\Unknown\Desktop\Practice Check\MenuItemApi\MenuItemApi\obj\Debug\netcoreapp3.1\MenuItemApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Unknown\Desktop\Practice Check\MenuItemApi\MenuItemApi\obj\Debug\netcoreapp3.1\MenuItemApi.AssemblyInfoInputs.cache
 C:\Users\Unknown\Desktop\Practice Check\MenuItemApi\MenuItemApi\obj\Debug\netcoreapp3.1\MenuItemApi.AssemblyInfo.cs

@@ -14,9 +14,9 @@ namespace MenuItemApi.Controllers
     {
         List<MenuItem> m = new List<MenuItem>()
         {
-                new MenuItem{Id=1,Name="Fried rice",Price=200,DateOfLaunch=new DateTime(2022,06,18),Active=true,FreeDelivery=false},
-                new MenuItem{Id=2,Name="Butter Naan",Price=100,DateOfLaunch=new DateTime(2022,06,18),Active=true,FreeDelivery=true},
-                new MenuItem{Id=3,Name="Paneer Butter masala  ",Price=200,DateOfLaunch=new DateTime(2022,06,18),Active=false,FreeDelivery=false}
+                new MenuItem{Id=1,Name="Paneer Manchurian",Price=150,DateOfLaunch=new DateTime(2022,06,27),Active=true,FreeDelivery=true},
+                new MenuItem{Id=2,Name="Chicken Fried Rice",Price=180,DateOfLaunch=new DateTime(2022,06,27),Active=true,FreeDelivery=false},
+                new MenuItem{Id=3,Name="Chicken Lollipop",Price=200,DateOfLaunch=new DateTime(2022,06,27),Active=false,FreeDelivery=true}
         };
 
         [HttpGet]
